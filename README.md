@@ -1,5 +1,7 @@
 ![status](https://secure.travis-ci.org/darthmaim/gulp-to-ico.svg?branch=master)
 
+Gulp wrapper for [to-ico](https://www.npmjs.com/package/to-ico). 
+
 ## Installation
 
 Install package with NPM and add it to your development dependencies:
